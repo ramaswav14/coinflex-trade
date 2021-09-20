@@ -10,6 +10,7 @@ Subscribes to Instruments:
 4. SUSHI-USD-SWAP-LIN
 
 React app refreshes the prices every 100MS for all these instruments currently, can be configured to have separate refresh rates for each currency pair.
+Orders are currently stored on the local storage.
 
 ## WebApp
 
